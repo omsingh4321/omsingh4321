@@ -2,7 +2,6 @@
 ### I am a C++ programmer ,a mern stack developer and a tech enthusiast
 ### Currently pursuaing B.E in Computer Science and engneering
 
-#### 🔭 I’m currently working on  PUExam (a question Paper Distribution System) 
 #### 🧑‍💻 I am looking to collaborate on projects
 #### 💬 Ask me about Mern Stack
 #### 📫 How to reach me: om43singh21@gmail.com
